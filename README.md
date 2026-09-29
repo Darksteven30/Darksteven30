@@ -15,7 +15,7 @@
 ### 👨‍💻 Sobre mí
 
 - 🎓 Soy estudiante y estoy dando mis primeros pasos en el mundo de la programación.
-- 🌱 Actualmente aprendiendo: **[ej. Python, JavaScript, HTML/CSS]**
+- 🌱 Actualmente aprendiendo: **[Python, JavaScript, HTML/CSS]**
 - 🔭 Estoy trabajando en: **Proyectos personales**
 - 🤝 Busco colaborar en: **proyectos donde pueda seguir aprendiendo**
 - 💬 Pregúntame sobre: **[Video Juegos, Musica, Cocina]**
