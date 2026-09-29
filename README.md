@@ -16,10 +16,10 @@
 
 - 🎓 Soy estudiante y estoy dando mis primeros pasos en el mundo de la programación.
 - 🌱 Actualmente aprendiendo: **[ej. Python, JavaScript, HTML/CSS]**
-- 🔭 Estoy trabajando en: **[nombre de tu proyecto actual]**
+- 🔭 Estoy trabajando en: **Proyectos personales**
 - 🤝 Busco colaborar en: **proyectos donde pueda seguir aprendiendo**
-- 💬 Pregúntame sobre: **[tema en el que te sientas cómodo, aunque sea básico]**
-- ⚡ Dato curioso: **[algo random sobre ti]**
+- 💬 Pregúntame sobre: **[Video Juegos, Musica, Cocina]**
+- ⚡ Dato curioso: **[Soy aficionado por la gastronomia, me gusta la musica y amante a los videojuegos]**
 
 ---
 
@@ -55,13 +55,13 @@
 ### 🌐 Conecta conmigo
 
 <p align="center">
-  <a href="https://linkedin.com/in/TU_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/feed/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:TU_CORREO@ejemplo.com">
+  <a href="mailto:davidsteven0135@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://instagram.com/TU_USUARIO" target="_blank">
+  <a href="https://instagram.com/david_stev30" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
