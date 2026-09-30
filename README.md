@@ -10,6 +10,38 @@
   <img src="https://img.shields.io/badge/Estudiante-100%25-success?style=for-the-badge" />
 </p>
 
+<p align="center">
+  <!-- YouTube (Usa badge estático social para que cargue correctamente) -->
+  <a href="https://www.youtube.com/@darksteven5117" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-darksteven5117-red?style=social&logo=youtube" />
+  </a>
+
+  <!-- Twitch Status -->
+  <a href="https://www.twitch.tv/darksteven30sc" target="_blank">
+    <img src="https://img.shields.io/twitch/status/darksteven30sc?style=social" />
+  </a>
+
+  <!-- Discord Server Status -->
+  <a href="https://discord.gg/WUBVwgJdSq" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-Join-7289DA?style=social&logo=discord" />
+  </a>
+
+  <!-- X / Twitter Follow -->
+  <a href="https://x.com/DavidStev30" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/DavidStev30?style=social" />
+  </a>
+
+  <!-- GitHub Followers -->
+  <a href="https://github.com/Darksteven30?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/Darksteven30?style=social" />
+  </a>
+
+  <!-- GitHub Stars -->
+  <a href="https://github.com/Darksteven30" target="_blank">
+    <img src="https://img.shields.io/github/stars/Darksteven30?style=social" />
+  </a>
+</p>
+
 ---
 
 ### 👨‍💻 Sobre mí
