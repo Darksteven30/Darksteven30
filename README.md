@@ -32,7 +32,7 @@
 
 **Lenguajes & Frameworks:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,cs,js,html,css,vue,angular" />
+  <img src="https://skillicons.dev/icons?i=java,python,cs,js,ts,react,html,css,vue,angular" />
 </p>
 
 **Bases de Datos, Control de Versiones & Herramientas:**
@@ -47,7 +47,7 @@
 | Proyecto | Descripción | Tecnología |
 |---|---|---|
 | 🅿️ **[Proyecto Parktech](https://github.com/Darksteven30/Proyecto-Parktech)** | Sistema de gestión y reservas de parqueaderos universitarios con disponibilidad en tiempo real | `Python` |
-| 🏢 **[ConviveApp](https://github.com/Darksteven30/ConviveApp__Poligran)** | App móvil para administración de propiedad horizontal: gestión de ingresos/gastos, reserva de zonas comunes y pagos | `Java` `Android Studio` |
+| 🏢 **[ConviveApp](https://github.com/Darksteven30/Convive_AppMobile)** | App móvil para administración de propiedad horizontal: control de acceso por roles, gestión de ingresos/gastos, reservas, pagos, y **pruebas automatizadas (Jest + RTL)** | `React Native` `Expo` `TypeScript` `Jest` |
 
 > 💡 También practico control de versiones (Git/GitFlow) y programación web (HTML, CSS, JS, Vue) como parte de mi formación — puedes verlo en mis demás repositorios.
 
